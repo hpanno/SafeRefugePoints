@@ -1,0 +1,3493 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": null,
+        "description": null,
+        "timestamp": null,
+        "begin": null,
+        "_end": null,
+        "altitudemode": null,
+        "tessellate": -1,
+        "extrude": -1,
+        "visibility": -1,
+        "draworder": null,
+        "icon": null,
+        "label": "S",
+        "preattack": null,
+        "location": "San Benito Road School",
+        "type": "Safety Refuge Area",
+        "address": "San Benito Road School",
+        "long": "120Â° 41.039' W",
+        "lat": "35Â° 30.979' N",
+        "comments": null,
+        "id": 354,
+        "cartodb_id": 1,
+        "created_at": "2014-04-11T22:13:05Z",
+        "updated_at": "2014-04-11T22:13:05Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.683986,
+          35.516326
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": null,
+        "description": null,
+        "timestamp": null,
+        "begin": null,
+        "_end": null,
+        "altitudemode": null,
+        "tessellate": -1,
+        "extrude": -1,
+        "visibility": -1,
+        "draworder": null,
+        "icon": null,
+        "label": "S",
+        "preattack": null,
+        "location": "San Gabriel Road School",
+        "type": "Safety Refuge Area",
+        "address": "San Gabriel Road School",
+        "long": "120Â° 40.204' W",
+        "lat": "35Â° 27.479' N",
+        "comments": null,
+        "id": 355,
+        "cartodb_id": 2,
+        "created_at": "2014-04-11T22:13:05Z",
+        "updated_at": "2014-04-11T22:13:05Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.670069,
+          35.457987
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": null,
+        "description": null,
+        "timestamp": null,
+        "begin": null,
+        "_end": null,
+        "altitudemode": null,
+        "tessellate": -1,
+        "extrude": -1,
+        "visibility": -1,
+        "draworder": null,
+        "icon": null,
+        "label": "S",
+        "preattack": null,
+        "location": "High School",
+        "type": "Safety Refuge Area",
+        "address": "High School",
+        "long": "120Â° 40.480' W",
+        "lat": "35Â° 29.013' N",
+        "comments": null,
+        "id": 356,
+        "cartodb_id": 3,
+        "created_at": "2014-04-11T22:13:05Z",
+        "updated_at": "2014-04-11T22:13:05Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.674672,
+          35.483551
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": null,
+        "description": null,
+        "timestamp": null,
+        "begin": null,
+        "_end": null,
+        "altitudemode": null,
+        "tessellate": -1,
+        "extrude": -1,
+        "visibility": -1,
+        "draworder": null,
+        "icon": null,
+        "label": "S",
+        "preattack": null,
+        "location": "Junior High School",
+        "type": "Safety Refuge Area",
+        "address": "Junior High School",
+        "long": "120Â° 39.983' W",
+        "lat": "35Â° 29.461' N",
+        "comments": null,
+        "id": 357,
+        "cartodb_id": 4,
+        "created_at": "2014-04-11T22:13:05Z",
+        "updated_at": "2014-04-11T22:13:05Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.666381,
+          35.491017
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "West Atascadero",
+        "description": null,
+        "timestamp": null,
+        "begin": null,
+        "_end": null,
+        "altitudemode": null,
+        "tessellate": -1,
+        "extrude": -1,
+        "visibility": -1,
+        "draworder": null,
+        "icon": null,
+        "label": "S",
+        "preattack": "West Atascadero Area PreAttack Plan",
+        "location": null,
+        "type": "Safety Refuge Area",
+        "address": "14558 Toleman Rd",
+        "long": "120Â° 43.841' W",
+        "lat": "35Â° 26.759' N",
+        "comments": null,
+        "id": 358,
+        "cartodb_id": 5,
+        "created_at": "2014-04-11T22:13:05Z",
+        "updated_at": "2014-04-11T22:13:05Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.730684,
+          35.445984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "West Atascadero",
+        "description": null,
+        "timestamp": null,
+        "begin": null,
+        "_end": null,
+        "altitudemode": null,
+        "tessellate": -1,
+        "extrude": -1,
+        "visibility": -1,
+        "draworder": null,
+        "icon": null,
+        "label": "S",
+        "preattack": "West Atascadero Area PreAttack Plan",
+        "location": null,
+        "type": "Safety Refuge Area",
+        "address": "14558 Toleman Rd",
+        "long": "120Â° 44.024' W",
+        "lat": "35Â° 26.874' N",
+        "comments": null,
+        "id": 359,
+        "cartodb_id": 6,
+        "created_at": "2014-04-11T22:13:05Z",
+        "updated_at": "2014-04-11T22:13:05Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.73374,
+          35.447896
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "West Atascadero",
+        "description": null,
+        "timestamp": null,
+        "begin": null,
+        "_end": null,
+        "altitudemode": null,
+        "tessellate": -1,
+        "extrude": -1,
+        "visibility": -1,
+        "draworder": null,
+        "icon": null,
+        "label": "S",
+        "preattack": "West Atascadero Area PreAttack Plan",
+        "location": null,
+        "type": "Safety Refuge Area",
+        "address": "Lower Toleman Rd",
+        "long": "120Â° 44.393' W",
+        "lat": "35Â° 27.331' N",
+        "comments": null,
+        "id": 360,
+        "cartodb_id": 7,
+        "created_at": "2014-04-11T22:13:05Z",
+        "updated_at": "2014-04-11T22:13:05Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.739879,
+          35.455514
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "West Atascadero",
+        "description": null,
+        "timestamp": null,
+        "begin": null,
+        "_end": null,
+        "altitudemode": null,
+        "tessellate": -1,
+        "extrude": -1,
+        "visibility": -1,
+        "draworder": null,
+        "icon": null,
+        "label": "S",
+        "preattack": "West Atascadero Area PreAttack Plan",
+        "location": null,
+        "type": "Safety Refuge Area",
+        "address": "9200 Santa Rita Rd",
+        "long": "120Â° 48.849' W",
+        "lat": "35Â° 29.733' N",
+        "comments": null,
+        "id": 361,
+        "cartodb_id": 8,
+        "created_at": "2014-04-11T22:13:05Z",
+        "updated_at": "2014-04-11T22:13:05Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.814154,
+          35.495555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "West Atascadero",
+        "description": null,
+        "timestamp": null,
+        "begin": null,
+        "_end": null,
+        "altitudemode": null,
+        "tessellate": -1,
+        "extrude": -1,
+        "visibility": -1,
+        "draworder": null,
+        "icon": null,
+        "label": "S",
+        "preattack": "West Atascadero Area PreAttack Plan",
+        "location": null,
+        "type": "Safety Refuge Area",
+        "address": "8000 Toro Creek Rd",
+        "long": "120Â° 46.310' W",
+        "lat": "35Â° 27.684' N",
+        "comments": null,
+        "id": 362,
+        "cartodb_id": 9,
+        "created_at": "2014-04-11T22:13:05Z",
+        "updated_at": "2014-04-11T22:13:05Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.771837,
+          35.461394
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "West Atascadero",
+        "description": null,
+        "timestamp": null,
+        "begin": null,
+        "_end": null,
+        "altitudemode": null,
+        "tessellate": -1,
+        "extrude": -1,
+        "visibility": -1,
+        "draworder": null,
+        "icon": null,
+        "label": "S",
+        "preattack": "West Atascadero Area PreAttack Plan",
+        "location": null,
+        "type": "Safety Refuge Area",
+        "address": "8888 Toro Creek Rd",
+        "long": "120Â° 47.301' W",
+        "lat": "35Â° 27.563' N",
+        "comments": null,
+        "id": 363,
+        "cartodb_id": 10,
+        "created_at": "2014-04-11T22:13:05Z",
+        "updated_at": "2014-04-11T22:13:05Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.788352,
+          35.45939
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "West Atascadero",
+        "description": null,
+        "timestamp": null,
+        "begin": null,
+        "_end": null,
+        "altitudemode": null,
+        "tessellate": -1,
+        "extrude": -1,
+        "visibility": -1,
+        "draworder": null,
+        "icon": null,
+        "label": "S",
+        "preattack": "West Atascadero Area PreAttack Plan",
+        "location": null,
+        "type": "Safety Refuge Area",
+        "address": "8600 Toro Creek Rd",
+        "long": "120Â° 47.660' W",
+        "lat": "35Â° 27.699' N",
+        "comments": null,
+        "id": 364,
+        "cartodb_id": 11,
+        "created_at": "2014-04-11T22:13:05Z",
+        "updated_at": "2014-04-11T22:13:05Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.79434,
+          35.461646
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Upper Los Berros PreAttack Plan",
+        "description": null,
+        "timestamp": null,
+        "begin": null,
+        "_end": null,
+        "altitudemode": null,
+        "tessellate": -1,
+        "extrude": -1,
+        "visibility": -1,
+        "draworder": null,
+        "icon": null,
+        "label": "S",
+        "preattack": "Greater Suey Creek Area PreAttack Plan",
+        "location": "820 Upper Los Berros Rd (Residence)",
+        "type": "Safety Refuge Area",
+        "address": "820 Upper Los Berros Rd",
+        "long": "120Â° 28.795' W",
+        "lat": "35Â° 5.984' N",
+        "comments": "Enter through driveway to the northwest",
+        "id": 365,
+        "cartodb_id": 12,
+        "created_at": "2014-04-11T22:13:05Z",
+        "updated_at": "2014-04-11T22:13:05Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.47991,
+          35.099739
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Suey Creek PreAttack Plan",
+        "description": null,
+        "timestamp": null,
+        "begin": null,
+        "_end": null,
+        "altitudemode": null,
+        "tessellate": -1,
+        "extrude": -1,
+        "visibility": -1,
+        "draworder": null,
+        "icon": null,
+        "label": "S",
+        "preattack": "Greater Suey Creek Area PreAttack Plan",
+        "location": "Suey Creek Rd",
+        "type": "Safety Refuge Area",
+        "address": "Suey Creek Rd X Cougar Ridge Wy",
+        "long": "120Â° 24.124' W",
+        "lat": "35Â° 4.649' N",
+        "comments": "People only, NO vehicles (steep hillside)",
+        "id": 366,
+        "cartodb_id": 13,
+        "created_at": "2014-04-11T22:13:05Z",
+        "updated_at": "2014-04-11T22:13:05Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.402061,
+          35.077479
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": null,
+        "description": null,
+        "timestamp": null,
+        "begin": null,
+        "_end": null,
+        "altitudemode": null,
+        "tessellate": -1,
+        "extrude": -1,
+        "visibility": -1,
+        "draworder": null,
+        "icon": null,
+        "label": "S",
+        "preattack": null,
+        "location": null,
+        "type": "Safety Refuge Area",
+        "address": "San Simeon State",
+        "long": "121Â° 7.414' W",
+        "lat": "35Â° 35.994' N",
+        "comments": "Rotate: 332",
+        "id": 403,
+        "cartodb_id": 50,
+        "created_at": "2014-04-11T22:13:05Z",
+        "updated_at": "2014-04-11T22:13:05Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.123571,
+          35.599906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Suey Creek PreAttack Plan",
+        "description": null,
+        "timestamp": null,
+        "begin": null,
+        "_end": null,
+        "altitudemode": null,
+        "tessellate": -1,
+        "extrude": -1,
+        "visibility": -1,
+        "draworder": null,
+        "icon": null,
+        "label": "S",
+        "preattack": "Greater Suey Creek Area PreAttack Plan",
+        "location": "Big Oak (Wildflower Rd X Temettate Dr)",
+        "type": "Safety Refuge Area",
+        "address": "Wildflower Rd X Temettate Dr",
+        "long": "120Â° 24.051' W",
+        "lat": "35Â° 3.725' N",
+        "comments": "\"Big Oak\"",
+        "id": 367,
+        "cartodb_id": 14,
+        "created_at": "2014-04-11T22:13:05Z",
+        "updated_at": "2014-04-11T22:13:05Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.400851,
+          35.06208
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "West Atascadero Backside",
+        "description": null,
+        "timestamp": null,
+        "begin": null,
+        "_end": null,
+        "altitudemode": null,
+        "tessellate": -1,
+        "extrude": -1,
+        "visibility": -1,
+        "draworder": null,
+        "icon": null,
+        "label": "S",
+        "preattack": "West Atascadero Area PreAttack Plan",
+        "location": "Vineyard Elementary",
+        "type": "Safety Refuge Area",
+        "address": "2121 Vineyard Dr",
+        "long": "120Â° 44.551' W",
+        "lat": "35Â° 32.373' N",
+        "comments": null,
+        "id": 368,
+        "cartodb_id": 15,
+        "created_at": "2014-04-11T22:13:05Z",
+        "updated_at": "2014-04-11T22:13:05Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.742522,
+          35.539544
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "West Atascadero Backside",
+        "description": null,
+        "timestamp": null,
+        "begin": null,
+        "_end": null,
+        "altitudemode": null,
+        "tessellate": -1,
+        "extrude": -1,
+        "visibility": -1,
+        "draworder": null,
+        "icon": null,
+        "label": "S",
+        "preattack": "West Atascadero Area PreAttack Plan",
+        "location": "Oak ViewRd",
+        "type": "Safety Refuge Area",
+        "address": "Oak View Rd",
+        "long": "120Â° 45.154' W",
+        "lat": "35Â° 32.932' N",
+        "comments": null,
+        "id": 369,
+        "cartodb_id": 16,
+        "created_at": "2014-04-11T22:13:05Z",
+        "updated_at": "2014-04-11T22:13:05Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.752563,
+          35.548861
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "West Atascadero Backside",
+        "description": null,
+        "timestamp": null,
+        "begin": null,
+        "_end": null,
+        "altitudemode": null,
+        "tessellate": -1,
+        "extrude": -1,
+        "visibility": -1,
+        "draworder": null,
+        "icon": null,
+        "label": "S",
+        "preattack": "West Atascadero Area PreAttack Plan",
+        "location": "1935 Santa Rita Rd",
+        "type": "Safety Refuge Area",
+        "address": "1935 Santa Rita",
+        "long": "120Â° 44.687' W",
+        "lat": "35Â° 32.025' N",
+        "comments": null,
+        "id": 370,
+        "cartodb_id": 17,
+        "created_at": "2014-04-11T22:13:05Z",
+        "updated_at": "2014-04-11T22:13:05Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.74478,
+          35.533747
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Upper Los Berros PreAttack Plan",
+        "description": null,
+        "timestamp": null,
+        "begin": null,
+        "_end": null,
+        "altitudemode": null,
+        "tessellate": -1,
+        "extrude": -1,
+        "visibility": -1,
+        "draworder": null,
+        "icon": null,
+        "label": "S",
+        "preattack": "Greater Suey Creek Area PreAttack Plan",
+        "location": "1220 Upper Los Berros",
+        "type": "Safety Refuge Area",
+        "address": "1220 Upper Los Berros",
+        "long": "120Â° 26.904' W",
+        "lat": "35Â° 4.800' N",
+        "comments": null,
+        "id": 371,
+        "cartodb_id": 18,
+        "created_at": "2014-04-11T22:13:05Z",
+        "updated_at": "2014-04-11T22:13:05Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.448397,
+          35.080009
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "West Atascadero Backside",
+        "description": null,
+        "timestamp": null,
+        "begin": null,
+        "_end": null,
+        "altitudemode": null,
+        "tessellate": -1,
+        "extrude": -1,
+        "visibility": -1,
+        "draworder": null,
+        "icon": null,
+        "label": "S",
+        "preattack": "West Atascadero Area PreAttack Plan",
+        "location": "Ridge Rd",
+        "type": "Safety Refuge Area",
+        "address": "1947 Ridge Rd",
+        "long": "120Â° 43.597' W",
+        "lat": "35Â° 31.719' N",
+        "comments": null,
+        "id": 372,
+        "cartodb_id": 19,
+        "created_at": "2014-04-11T22:13:05Z",
+        "updated_at": "2014-04-11T22:13:05Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.726617,
+          35.528652
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "West Atascadero",
+        "description": null,
+        "timestamp": null,
+        "begin": null,
+        "_end": null,
+        "altitudemode": null,
+        "tessellate": -1,
+        "extrude": -1,
+        "visibility": -1,
+        "draworder": null,
+        "icon": null,
+        "label": "S",
+        "preattack": "West Atascadero Area PreAttack Plan",
+        "location": null,
+        "type": "Safety Refuge Area",
+        "address": "Toro Creek Rd x Highway 41",
+        "long": "120Â° 44.975' W",
+        "lat": "35Â° 27.487' N",
+        "comments": null,
+        "id": 373,
+        "cartodb_id": 20,
+        "created_at": "2014-04-11T22:13:05Z",
+        "updated_at": "2014-04-11T22:13:05Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.749582,
+          35.458116
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Suey Creek PreAttack Plan",
+        "description": null,
+        "timestamp": null,
+        "begin": null,
+        "_end": null,
+        "altitudemode": null,
+        "tessellate": -1,
+        "extrude": -1,
+        "visibility": -1,
+        "draworder": null,
+        "icon": null,
+        "label": "S",
+        "preattack": "Greater Suey Creek Area PreAttack Plan",
+        "location": "8975 Suey Creek Rd",
+        "type": "Safety Refuge Area",
+        "address": "8975 Suey Creek Rd",
+        "long": "120Â° 23.298' W",
+        "lat": "35Â° 3.855' N",
+        "comments": null,
+        "id": 374,
+        "cartodb_id": 21,
+        "created_at": "2014-04-11T22:13:05Z",
+        "updated_at": "2014-04-11T22:13:05Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.388306,
+          35.064252
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Suey Creek PreAttack Plan",
+        "description": null,
+        "timestamp": null,
+        "begin": null,
+        "_end": null,
+        "altitudemode": null,
+        "tessellate": -1,
+        "extrude": -1,
+        "visibility": -1,
+        "draworder": null,
+        "icon": null,
+        "label": "S",
+        "preattack": "Greater Suey Creek Area PreAttack Plan",
+        "location": "Upper Cotote Springs",
+        "type": "Safety Refuge Area",
+        "address": "Past 10775 Coyote Springs",
+        "long": "120Â° 22.520' W",
+        "lat": "35Â° 4.491' N",
+        "comments": null,
+        "id": 375,
+        "cartodb_id": 22,
+        "created_at": "2014-04-11T22:13:05Z",
+        "updated_at": "2014-04-11T22:13:05Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.375331,
+          35.074854
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lupine Canyon, See Canyon/Davis Canyon Plan",
+        "description": null,
+        "timestamp": null,
+        "begin": null,
+        "_end": null,
+        "altitudemode": null,
+        "tessellate": -1,
+        "extrude": -1,
+        "visibility": -1,
+        "draworder": null,
+        "icon": null,
+        "label": "S",
+        "preattack": "Avila Valley Area PreAttack Plan",
+        "location": null,
+        "type": "Safety Refuge Area",
+        "address": "San Luis Bay Inn",
+        "long": "120Â° 44.438' W",
+        "lat": "35Â° 10.774' N",
+        "comments": null,
+        "id": 376,
+        "cartodb_id": 23,
+        "created_at": "2014-04-11T22:13:05Z",
+        "updated_at": "2014-04-11T22:13:05Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.74063,
+          35.179559
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": null,
+        "description": null,
+        "timestamp": null,
+        "begin": null,
+        "_end": null,
+        "altitudemode": null,
+        "tessellate": -1,
+        "extrude": -1,
+        "visibility": -1,
+        "draworder": null,
+        "icon": null,
+        "label": "S",
+        "preattack": null,
+        "location": null,
+        "type": "Safety Refuge Area",
+        "address": null,
+        "long": "120Â° 23.610' W",
+        "lat": "35Â° 20.743' N",
+        "comments": null,
+        "id": 377,
+        "cartodb_id": 24,
+        "created_at": "2014-04-11T22:13:05Z",
+        "updated_at": "2014-04-11T22:13:05Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.393501,
+          35.34571
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": null,
+        "description": null,
+        "timestamp": null,
+        "begin": null,
+        "_end": null,
+        "altitudemode": null,
+        "tessellate": -1,
+        "extrude": -1,
+        "visibility": -1,
+        "draworder": null,
+        "icon": null,
+        "label": "S",
+        "preattack": null,
+        "location": null,
+        "type": "Safety Refuge Area",
+        "address": "San Simeon State",
+        "long": "121Â° 7.415' W",
+        "lat": "35Â° 35.808' N",
+        "comments": "Rotate: 332",
+        "id": 378,
+        "cartodb_id": 25,
+        "created_at": "2014-04-11T22:13:05Z",
+        "updated_at": "2014-04-11T22:13:05Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.123583,
+          35.596797
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Windosr Plan",
+        "description": null,
+        "timestamp": null,
+        "begin": null,
+        "_end": null,
+        "altitudemode": null,
+        "tessellate": -1,
+        "extrude": -1,
+        "visibility": -1,
+        "draworder": null,
+        "icon": null,
+        "label": "S",
+        "preattack": "Cambria PreAttack Plan",
+        "location": null,
+        "type": "Safety Refuge Area",
+        "address": "Leffingwells Park",
+        "long": "121Â° 6.496' W",
+        "lat": "35Â° 33.961' N",
+        "comments": "Rotate: 332",
+        "id": 379,
+        "cartodb_id": 26,
+        "created_at": "2014-04-11T22:13:05Z",
+        "updated_at": "2014-04-11T22:13:05Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.108268,
+          35.566016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fiscallini West Plan",
+        "description": null,
+        "timestamp": null,
+        "begin": null,
+        "_end": null,
+        "altitudemode": null,
+        "tessellate": -1,
+        "extrude": -1,
+        "visibility": -1,
+        "draworder": null,
+        "icon": null,
+        "label": "S",
+        "preattack": "Cambria PreAttack Plan",
+        "location": null,
+        "type": "Safety Refuge Area",
+        "address": "Seacliff Estates",
+        "long": "121Â° 6.148' W",
+        "lat": "35Â° 33.356' N",
+        "comments": "Rotate: 332",
+        "id": 380,
+        "cartodb_id": 27,
+        "created_at": "2014-04-11T22:13:05Z",
+        "updated_at": "2014-04-11T22:13:05Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.102466,
+          35.55593
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ardath Plan",
+        "description": null,
+        "timestamp": null,
+        "begin": null,
+        "_end": null,
+        "altitudemode": null,
+        "tessellate": -1,
+        "extrude": -1,
+        "visibility": -1,
+        "draworder": null,
+        "icon": null,
+        "label": "S",
+        "preattack": "Cambria PreAttack Plan",
+        "location": null,
+        "type": "Safety Refuge Area",
+        "address": "Lampton Cliffs Park",
+        "long": "121Â° 5.560' W",
+        "lat": "35Â° 32.489' N",
+        "comments": "Rotate: 332",
+        "id": 381,
+        "cartodb_id": 28,
+        "created_at": "2014-04-11T22:13:05Z",
+        "updated_at": "2014-04-11T22:13:05Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.092673,
+          35.54149
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": null,
+        "description": null,
+        "timestamp": null,
+        "begin": null,
+        "_end": null,
+        "altitudemode": null,
+        "tessellate": -1,
+        "extrude": -1,
+        "visibility": -1,
+        "draworder": null,
+        "icon": null,
+        "label": "S",
+        "preattack": null,
+        "location": null,
+        "type": "Safety Refuge Area",
+        "address": "CalTrans Maintentance",
+        "long": "121Â° 2.456' W",
+        "lat": "35Â° 31.718' N",
+        "comments": "Rotate: 332",
+        "id": 382,
+        "cartodb_id": 29,
+        "created_at": "2014-04-11T22:13:05Z",
+        "updated_at": "2014-04-11T22:13:05Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.040928,
+          35.528632
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Burton-Main Street Plan",
+        "description": null,
+        "timestamp": null,
+        "begin": null,
+        "_end": null,
+        "altitudemode": null,
+        "tessellate": -1,
+        "extrude": -1,
+        "visibility": -1,
+        "draworder": null,
+        "icon": null,
+        "label": "S",
+        "preattack": "Cambria PreAttack Plan",
+        "location": null,
+        "type": "Safety Refuge Area",
+        "address": null,
+        "long": "121Â° 4.892' W",
+        "lat": "35Â° 33.364' N",
+        "comments": null,
+        "id": 383,
+        "cartodb_id": 30,
+        "created_at": "2014-04-11T22:13:05Z",
+        "updated_at": "2014-04-11T22:13:05Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.081532,
+          35.556068
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "See Canyon/Davis Canyon Plan",
+        "description": null,
+        "timestamp": null,
+        "begin": null,
+        "_end": null,
+        "altitudemode": null,
+        "tessellate": -1,
+        "extrude": -1,
+        "visibility": -1,
+        "draworder": null,
+        "icon": null,
+        "label": "S",
+        "preattack": "Avila Valley Area PreAttack Plan",
+        "location": null,
+        "type": "Safety Refuge Area",
+        "address": null,
+        "long": "120Â° 45.572' W",
+        "lat": "35Â° 15.134' N",
+        "comments": null,
+        "id": 384,
+        "cartodb_id": 31,
+        "created_at": "2014-04-11T22:13:05Z",
+        "updated_at": "2014-04-11T22:13:05Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.759525,
+          35.252232
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "East Lake Nacimiento Plan, Heritage Ranch Plan",
+        "description": null,
+        "timestamp": null,
+        "begin": null,
+        "_end": null,
+        "altitudemode": null,
+        "tessellate": -1,
+        "extrude": -1,
+        "visibility": -1,
+        "draworder": null,
+        "icon": null,
+        "label": "S",
+        "preattack": "East Lake Nacimiento PreAttack Plan",
+        "location": null,
+        "type": "Safety Refuge Area",
+        "address": null,
+        "long": "120Â° 52.465' W",
+        "lat": "35Â° 43.353' N",
+        "comments": null,
+        "id": 385,
+        "cartodb_id": 32,
+        "created_at": "2014-04-11T22:13:05Z",
+        "updated_at": "2014-04-11T22:13:05Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.874417,
+          35.722546
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "East Lake Nacimiento Plan",
+        "description": null,
+        "timestamp": null,
+        "begin": null,
+        "_end": null,
+        "altitudemode": null,
+        "tessellate": -1,
+        "extrude": -1,
+        "visibility": -1,
+        "draworder": null,
+        "icon": null,
+        "label": "S",
+        "preattack": "East Lake Nacimiento PreAttack Plan",
+        "location": null,
+        "type": "Safety Refuge Area",
+        "address": null,
+        "long": "120Â° 52.569' W",
+        "lat": "35Â° 44.517' N",
+        "comments": null,
+        "id": 386,
+        "cartodb_id": 33,
+        "created_at": "2014-04-11T22:13:05Z",
+        "updated_at": "2014-04-11T22:13:05Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.876141,
+          35.741952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "East Lake Nacimiento Plan, Heritage Ranch Plan",
+        "description": null,
+        "timestamp": null,
+        "begin": null,
+        "_end": null,
+        "altitudemode": null,
+        "tessellate": -1,
+        "extrude": -1,
+        "visibility": -1,
+        "draworder": null,
+        "icon": null,
+        "label": "S",
+        "preattack": "East Lake Nacimiento PreAttack Plan",
+        "location": null,
+        "type": "Safety Refuge Area",
+        "address": null,
+        "long": "120Â° 52.998' W",
+        "lat": "35Â° 43.630' N",
+        "comments": null,
+        "id": 387,
+        "cartodb_id": 34,
+        "created_at": "2014-04-11T22:13:05Z",
+        "updated_at": "2014-04-11T22:13:05Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.8833,
+          35.72717
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tri County, West Lake Nacimiento PreAttack Plan",
+        "description": null,
+        "timestamp": null,
+        "begin": null,
+        "_end": null,
+        "altitudemode": null,
+        "tessellate": -1,
+        "extrude": -1,
+        "visibility": -1,
+        "draworder": null,
+        "icon": null,
+        "label": "S",
+        "preattack": "West Lake Nacimiento PreAttack Plan",
+        "location": null,
+        "type": "Safety Refuge Area",
+        "address": null,
+        "long": "120Â° 57.903' W",
+        "lat": "35Â° 43.888' N",
+        "comments": null,
+        "id": 388,
+        "cartodb_id": 35,
+        "created_at": "2014-04-11T22:13:05Z",
+        "updated_at": "2014-04-11T22:13:05Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.965052,
+          35.731463
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Oak Shores, West Lake Nacimiento PreAttack Plan",
+        "description": null,
+        "timestamp": null,
+        "begin": null,
+        "_end": null,
+        "altitudemode": null,
+        "tessellate": -1,
+        "extrude": -1,
+        "visibility": -1,
+        "draworder": null,
+        "icon": null,
+        "label": "S",
+        "preattack": "West Lake Nacimiento PreAttack Plan",
+        "location": null,
+        "type": "Safety Refuge Area",
+        "address": null,
+        "long": "120Â° 59.387' W",
+        "lat": "35Â° 44.878' N",
+        "comments": null,
+        "id": 389,
+        "cartodb_id": 36,
+        "created_at": "2014-04-11T22:13:05Z",
+        "updated_at": "2014-04-11T22:13:05Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.989787,
+          35.747959
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Parkhill Area PreAttack Plan",
+        "description": null,
+        "timestamp": null,
+        "begin": null,
+        "_end": null,
+        "altitudemode": null,
+        "tessellate": -1,
+        "extrude": -1,
+        "visibility": -1,
+        "draworder": null,
+        "icon": null,
+        "label": "S",
+        "preattack": "Parkhill Area PreAttack Plan",
+        "location": null,
+        "type": "Safety Refuge Area",
+        "address": null,
+        "long": "120Â° 27.146' W",
+        "lat": "35Â° 22.178' N",
+        "comments": null,
+        "id": 390,
+        "cartodb_id": 37,
+        "created_at": "2014-04-11T22:13:05Z",
+        "updated_at": "2014-04-11T22:13:05Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.452435,
+          35.369631
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Belhma Plan, Parkhill Area PreAttack Plan",
+        "description": null,
+        "timestamp": null,
+        "begin": null,
+        "_end": null,
+        "altitudemode": null,
+        "tessellate": -1,
+        "extrude": -1,
+        "visibility": -1,
+        "draworder": null,
+        "icon": null,
+        "label": "S",
+        "preattack": "Parkhill Area PreAttack Plan",
+        "location": null,
+        "type": "Safety Refuge Area",
+        "address": null,
+        "long": "120Â° 29.664' W",
+        "lat": "35Â° 23.903' N",
+        "comments": null,
+        "id": 391,
+        "cartodb_id": 38,
+        "created_at": "2014-04-11T22:13:05Z",
+        "updated_at": "2014-04-11T22:13:05Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.494394,
+          35.398383
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Parkhill Area PreAttack Plan, Salinas Plan",
+        "description": null,
+        "timestamp": null,
+        "begin": null,
+        "_end": null,
+        "altitudemode": null,
+        "tessellate": -1,
+        "extrude": -1,
+        "visibility": -1,
+        "draworder": null,
+        "icon": null,
+        "label": "S",
+        "preattack": "Parkhill Area PreAttack Plan",
+        "location": null,
+        "type": "Safety Refuge Area",
+        "address": null,
+        "long": "120Â° 31.839' W",
+        "lat": "35Â° 24.193' N",
+        "comments": null,
+        "id": 392,
+        "cartodb_id": 39,
+        "created_at": "2014-04-11T22:13:05Z",
+        "updated_at": "2014-04-11T22:13:05Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.530656,
+          35.403223
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Huer Huero Plan, Parkhill Area PreAttack Plan",
+        "description": null,
+        "timestamp": null,
+        "begin": null,
+        "_end": null,
+        "altitudemode": null,
+        "tessellate": -1,
+        "extrude": -1,
+        "visibility": -1,
+        "draworder": null,
+        "icon": null,
+        "label": "S",
+        "preattack": "Parkhill Area PreAttack Plan",
+        "location": null,
+        "type": "Safety Refuge Area",
+        "address": null,
+        "long": "120Â° 29.884' W",
+        "lat": "35Â° 26.152' N",
+        "comments": null,
+        "id": 393,
+        "cartodb_id": 40,
+        "created_at": "2014-04-11T22:13:05Z",
+        "updated_at": "2014-04-11T22:13:05Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.498061,
+          35.435863
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Baron Canyon/Squire Canyon Plan",
+        "description": null,
+        "timestamp": null,
+        "begin": null,
+        "_end": null,
+        "altitudemode": null,
+        "tessellate": -1,
+        "extrude": -1,
+        "visibility": -1,
+        "draworder": null,
+        "icon": null,
+        "label": "S",
+        "preattack": "Avila Valley Area PreAttack Plan",
+        "location": null,
+        "type": "Safety Refuge Area",
+        "address": "Baron Canyon",
+        "long": "120Â° 40.479' W",
+        "lat": "35Â° 12.414' N",
+        "comments": null,
+        "id": 394,
+        "cartodb_id": 41,
+        "created_at": "2014-04-11T22:13:05Z",
+        "updated_at": "2014-04-11T22:13:05Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.674655,
+          35.206899
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lupine Canyon, See Canyon/Davis Canyon Plan",
+        "description": null,
+        "timestamp": null,
+        "begin": null,
+        "_end": null,
+        "altitudemode": null,
+        "tessellate": -1,
+        "extrude": -1,
+        "visibility": -1,
+        "draworder": null,
+        "icon": null,
+        "label": "S",
+        "preattack": "Avila Valley Area PreAttack Plan",
+        "location": null,
+        "type": "Safety Refuge Area",
+        "address": "San Luis Bay Inn",
+        "long": "120Â° 44.438' W",
+        "lat": "35Â° 10.774' N",
+        "comments": null,
+        "id": 395,
+        "cartodb_id": 42,
+        "created_at": "2014-04-11T22:13:05Z",
+        "updated_at": "2014-04-11T22:13:05Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.74063,
+          35.179559
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "See Canyon/Davis Canyon Plan",
+        "description": null,
+        "timestamp": null,
+        "begin": null,
+        "_end": null,
+        "altitudemode": null,
+        "tessellate": -1,
+        "extrude": -1,
+        "visibility": -1,
+        "draworder": null,
+        "icon": null,
+        "label": "S",
+        "preattack": "Avila Valley Area PreAttack Plan",
+        "location": null,
+        "type": "Safety Refuge Area",
+        "address": "FAA Facility",
+        "long": "120Â° 45.602' W",
+        "lat": "35Â° 15.102' N",
+        "comments": null,
+        "id": 396,
+        "cartodb_id": 43,
+        "created_at": "2014-04-11T22:13:05Z",
+        "updated_at": "2014-04-11T22:13:05Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.760033,
+          35.251696
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Parkhill Area PreAttack Plan, Salinas Plan",
+        "description": null,
+        "timestamp": null,
+        "begin": null,
+        "_end": null,
+        "altitudemode": null,
+        "tessellate": -1,
+        "extrude": -1,
+        "visibility": -1,
+        "draworder": null,
+        "icon": null,
+        "label": "S",
+        "preattack": "Parkhill Area PreAttack Plan",
+        "location": null,
+        "type": "Safety Refuge Area",
+        "address": null,
+        "long": "120Â° 31.836' W",
+        "lat": "35Â° 24.192' N",
+        "comments": null,
+        "id": 397,
+        "cartodb_id": 44,
+        "created_at": "2014-04-11T22:13:05Z",
+        "updated_at": "2014-04-11T22:13:05Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.530592,
+          35.403204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Parkhill Area PreAttack Plan",
+        "description": null,
+        "timestamp": null,
+        "begin": null,
+        "_end": null,
+        "altitudemode": null,
+        "tessellate": -1,
+        "extrude": -1,
+        "visibility": -1,
+        "draworder": null,
+        "icon": null,
+        "label": "S",
+        "preattack": "Parkhill Area PreAttack Plan",
+        "location": null,
+        "type": "Safety Refuge Area",
+        "address": null,
+        "long": "120Â° 27.171' W",
+        "lat": "35Â° 22.199' N",
+        "comments": null,
+        "id": 398,
+        "cartodb_id": 45,
+        "created_at": "2014-04-11T22:13:05Z",
+        "updated_at": "2014-04-11T22:13:05Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.452844,
+          35.369982
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Huer Huero Plan, Parkhill Area PreAttack Plan",
+        "description": null,
+        "timestamp": null,
+        "begin": null,
+        "_end": null,
+        "altitudemode": null,
+        "tessellate": -1,
+        "extrude": -1,
+        "visibility": -1,
+        "draworder": null,
+        "icon": null,
+        "label": "S",
+        "preattack": "Parkhill Area PreAttack Plan",
+        "location": null,
+        "type": "Safety Refuge Area",
+        "address": null,
+        "long": "120Â° 29.866' W",
+        "lat": "35Â° 26.157' N",
+        "comments": null,
+        "id": 399,
+        "cartodb_id": 46,
+        "created_at": "2014-04-11T22:13:05Z",
+        "updated_at": "2014-04-11T22:13:05Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.497762,
+          35.435944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": null,
+        "description": null,
+        "timestamp": null,
+        "begin": null,
+        "_end": null,
+        "altitudemode": null,
+        "tessellate": -1,
+        "extrude": -1,
+        "visibility": -1,
+        "draworder": null,
+        "icon": null,
+        "label": "S",
+        "preattack": null,
+        "location": null,
+        "type": "Safety Refuge Area",
+        "address": null,
+        "long": "120Â° 23.610' W",
+        "lat": "35Â° 20.743' N",
+        "comments": null,
+        "id": 400,
+        "cartodb_id": 47,
+        "created_at": "2014-04-11T22:13:05Z",
+        "updated_at": "2014-04-11T22:13:05Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.393501,
+          35.34571
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Parkhill Area PreAttack Plan",
+        "description": null,
+        "timestamp": null,
+        "begin": null,
+        "_end": null,
+        "altitudemode": null,
+        "tessellate": -1,
+        "extrude": -1,
+        "visibility": -1,
+        "draworder": null,
+        "icon": null,
+        "label": "S",
+        "preattack": "Parkhill Area PreAttack Plan",
+        "location": null,
+        "type": "Safety Refuge Area",
+        "address": null,
+        "long": "120Â° 24.973' W",
+        "lat": "35Â° 22.842' N",
+        "comments": null,
+        "id": 401,
+        "cartodb_id": 48,
+        "created_at": "2014-04-11T22:13:05Z",
+        "updated_at": "2014-04-11T22:13:05Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.416224,
+          35.380701
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Belhma Plan, Parkhill Area PreAttack Plan",
+        "description": null,
+        "timestamp": null,
+        "begin": null,
+        "_end": null,
+        "altitudemode": null,
+        "tessellate": -1,
+        "extrude": -1,
+        "visibility": -1,
+        "draworder": null,
+        "icon": null,
+        "label": "S",
+        "preattack": "Parkhill Area PreAttack Plan",
+        "location": null,
+        "type": "Safety Refuge Area",
+        "address": null,
+        "long": "120Â° 29.614' W",
+        "lat": "35Â° 23.914' N",
+        "comments": null,
+        "id": 402,
+        "cartodb_id": 49,
+        "created_at": "2014-04-11T22:13:05Z",
+        "updated_at": "2014-04-11T22:13:05Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.493572,
+          35.398565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": null,
+        "description": null,
+        "timestamp": null,
+        "begin": null,
+        "_end": null,
+        "altitudemode": null,
+        "tessellate": -1,
+        "extrude": -1,
+        "visibility": -1,
+        "draworder": null,
+        "icon": null,
+        "label": "S",
+        "preattack": null,
+        "location": null,
+        "type": "Safety Refuge Area",
+        "address": "Leffingwells Park",
+        "long": "121Â° 7.250' W",
+        "lat": "35Â° 34.950' N",
+        "comments": "Rotate: 332",
+        "id": 404,
+        "cartodb_id": 51,
+        "created_at": "2014-04-11T22:13:05Z",
+        "updated_at": "2014-04-11T22:13:05Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.120827,
+          35.582493
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Windosr Plan",
+        "description": null,
+        "timestamp": null,
+        "begin": null,
+        "_end": null,
+        "altitudemode": null,
+        "tessellate": -1,
+        "extrude": -1,
+        "visibility": -1,
+        "draworder": null,
+        "icon": null,
+        "label": "S",
+        "preattack": "Cambria PreAttack Plan",
+        "location": null,
+        "type": "Safety Refuge Area",
+        "address": "Shamel Park",
+        "long": "121Â° 6.484' W",
+        "lat": "35Â° 33.970' N",
+        "comments": "Rotate: 332",
+        "id": 405,
+        "cartodb_id": 52,
+        "created_at": "2014-04-11T22:13:05Z",
+        "updated_at": "2014-04-11T22:13:05Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.108067,
+          35.566169
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cambria Pines-Bridge Street Plan",
+        "description": null,
+        "timestamp": null,
+        "begin": null,
+        "_end": null,
+        "altitudemode": null,
+        "tessellate": -1,
+        "extrude": -1,
+        "visibility": -1,
+        "draworder": null,
+        "icon": null,
+        "label": "S",
+        "preattack": "Cambria PreAttack Plan",
+        "location": null,
+        "type": "Safety Refuge Area",
+        "address": "Vetrans Building",
+        "long": "121Â° 5.854' W",
+        "lat": "35Â° 33.905' N",
+        "comments": "Rotate: 332",
+        "id": 406,
+        "cartodb_id": 53,
+        "created_at": "2014-04-11T22:13:05Z",
+        "updated_at": "2014-04-11T22:13:05Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.097566,
+          35.565084
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cambria Pines-Bridge Street Plan",
+        "description": null,
+        "timestamp": null,
+        "begin": null,
+        "_end": null,
+        "altitudemode": null,
+        "tessellate": -1,
+        "extrude": -1,
+        "visibility": -1,
+        "draworder": null,
+        "icon": null,
+        "label": "S",
+        "preattack": "Cambria PreAttack Plan",
+        "location": null,
+        "type": "Safety Refuge Area",
+        "address": "Santa Rosa Church",
+        "long": "121Â° 5.715' W",
+        "lat": "35Â° 33.892' N",
+        "comments": "Rotate: 332",
+        "id": 407,
+        "cartodb_id": 54,
+        "created_at": "2014-04-11T22:13:05Z",
+        "updated_at": "2014-04-11T22:13:05Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.09525,
+          35.56486
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Windosr Plan",
+        "description": null,
+        "timestamp": null,
+        "begin": null,
+        "_end": null,
+        "altitudemode": null,
+        "tessellate": -1,
+        "extrude": -1,
+        "visibility": -1,
+        "draworder": null,
+        "icon": null,
+        "label": "S",
+        "preattack": "Cambria PreAttack Plan",
+        "location": null,
+        "type": "Safety Refuge Area",
+        "address": "Seacliff Estates",
+        "long": "121Â° 6.133' W",
+        "lat": "35Â° 33.374' N",
+        "comments": "Rotate: 332",
+        "id": 408,
+        "cartodb_id": 55,
+        "created_at": "2014-04-11T22:13:05Z",
+        "updated_at": "2014-04-11T22:13:05Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.102221,
+          35.55623
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ardath Plan",
+        "description": null,
+        "timestamp": null,
+        "begin": null,
+        "_end": null,
+        "altitudemode": null,
+        "tessellate": -1,
+        "extrude": -1,
+        "visibility": -1,
+        "draworder": null,
+        "icon": null,
+        "label": "S",
+        "preattack": "Cambria PreAttack Plan",
+        "location": null,
+        "type": "Safety Refuge Area",
+        "address": "Lampton Cliffs Park",
+        "long": "121Â° 5.567' W",
+        "lat": "35Â° 32.499' N",
+        "comments": "Rotate: 332",
+        "id": 409,
+        "cartodb_id": 56,
+        "created_at": "2014-04-11T22:13:05Z",
+        "updated_at": "2014-04-11T22:13:05Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.092793,
+          35.541653
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": null,
+        "description": null,
+        "timestamp": null,
+        "begin": null,
+        "_end": null,
+        "altitudemode": null,
+        "tessellate": -1,
+        "extrude": -1,
+        "visibility": -1,
+        "draworder": null,
+        "icon": null,
+        "label": "S",
+        "preattack": null,
+        "location": null,
+        "type": "Safety Refuge Area",
+        "address": "CalTrans Maintentance",
+        "long": "121Â° 2.645' W",
+        "lat": "35Â° 31.767' N",
+        "comments": "Rotate: 332",
+        "id": 410,
+        "cartodb_id": 57,
+        "created_at": "2014-04-11T22:13:05Z",
+        "updated_at": "2014-04-11T22:13:05Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.044088,
+          35.529453
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "See Canyon/Davis Canyon Plan",
+        "description": null,
+        "timestamp": null,
+        "begin": null,
+        "_end": null,
+        "altitudemode": null,
+        "tessellate": -1,
+        "extrude": -1,
+        "visibility": -1,
+        "draworder": null,
+        "icon": null,
+        "label": "S",
+        "preattack": "Avila Valley Area PreAttack Plan",
+        "location": null,
+        "type": "Safety Refuge Area",
+        "address": null,
+        "long": "120Â° 43.236' W",
+        "lat": "35Â° 12.624' N",
+        "comments": null,
+        "id": 411,
+        "cartodb_id": 58,
+        "created_at": "2014-04-11T22:13:05Z",
+        "updated_at": "2014-04-11T22:13:05Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.720609,
+          35.210394
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "See Canyon/Davis Canyon Plan",
+        "description": null,
+        "timestamp": null,
+        "begin": null,
+        "_end": null,
+        "altitudemode": null,
+        "tessellate": -1,
+        "extrude": -1,
+        "visibility": -1,
+        "draworder": null,
+        "icon": null,
+        "label": "S",
+        "preattack": "Avila Valley Area PreAttack Plan",
+        "location": null,
+        "type": "Safety Refuge Area",
+        "address": null,
+        "long": "120Â° 44.981' W",
+        "lat": "35Â° 13.314' N",
+        "comments": null,
+        "id": 412,
+        "cartodb_id": 59,
+        "created_at": "2014-04-11T22:13:05Z",
+        "updated_at": "2014-04-11T22:13:05Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.749692,
+          35.221901
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "See Canyon/Davis Canyon Plan",
+        "description": null,
+        "timestamp": null,
+        "begin": null,
+        "_end": null,
+        "altitudemode": null,
+        "tessellate": -1,
+        "extrude": -1,
+        "visibility": -1,
+        "draworder": null,
+        "icon": null,
+        "label": "S",
+        "preattack": "Avila Valley Area PreAttack Plan",
+        "location": null,
+        "type": "Safety Refuge Area",
+        "address": null,
+        "long": "120Â° 46.283' W",
+        "lat": "35Â° 13.869' N",
+        "comments": null,
+        "id": 413,
+        "cartodb_id": 60,
+        "created_at": "2014-04-11T22:13:05Z",
+        "updated_at": "2014-04-11T22:13:05Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.771379,
+          35.231145
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "See Canyon/Davis Canyon Plan",
+        "description": null,
+        "timestamp": null,
+        "begin": null,
+        "_end": null,
+        "altitudemode": null,
+        "tessellate": -1,
+        "extrude": -1,
+        "visibility": -1,
+        "draworder": null,
+        "icon": null,
+        "label": "S",
+        "preattack": "Avila Valley Area PreAttack Plan",
+        "location": null,
+        "type": "Safety Refuge Area",
+        "address": null,
+        "long": "120Â° 45.308' W",
+        "lat": "35Â° 14.067' N",
+        "comments": null,
+        "id": 414,
+        "cartodb_id": 61,
+        "created_at": "2014-04-11T22:13:05Z",
+        "updated_at": "2014-04-11T22:13:05Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.755128,
+          35.234454
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "See Canyon/Davis Canyon Plan",
+        "description": null,
+        "timestamp": null,
+        "begin": null,
+        "_end": null,
+        "altitudemode": null,
+        "tessellate": -1,
+        "extrude": -1,
+        "visibility": -1,
+        "draworder": null,
+        "icon": null,
+        "label": "S",
+        "preattack": "Avila Valley Area PreAttack Plan",
+        "location": null,
+        "type": "Safety Refuge Area",
+        "address": null,
+        "long": "120Â° 46.588' W",
+        "lat": "35Â° 13.838' N",
+        "comments": null,
+        "id": 415,
+        "cartodb_id": 62,
+        "created_at": "2014-04-11T22:13:05Z",
+        "updated_at": "2014-04-11T22:13:05Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.776475,
+          35.230624
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "See Canyon/Davis Canyon Plan",
+        "description": null,
+        "timestamp": null,
+        "begin": null,
+        "_end": null,
+        "altitudemode": null,
+        "tessellate": -1,
+        "extrude": -1,
+        "visibility": -1,
+        "draworder": null,
+        "icon": null,
+        "label": "S",
+        "preattack": "Avila Valley Area PreAttack Plan",
+        "location": null,
+        "type": "Safety Refuge Area",
+        "address": null,
+        "long": "120Â° 45.573' W",
+        "lat": "35Â° 15.135' N",
+        "comments": null,
+        "id": 416,
+        "cartodb_id": 63,
+        "created_at": "2014-04-11T22:13:05Z",
+        "updated_at": "2014-04-11T22:13:05Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.759548,
+          35.252253
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "See Canyon/Davis Canyon Plan",
+        "description": null,
+        "timestamp": null,
+        "begin": null,
+        "_end": null,
+        "altitudemode": null,
+        "tessellate": -1,
+        "extrude": -1,
+        "visibility": -1,
+        "draworder": null,
+        "icon": null,
+        "label": "S",
+        "preattack": "Avila Valley Area PreAttack Plan",
+        "location": null,
+        "type": "Safety Refuge Area",
+        "address": null,
+        "long": "120Â° 45.770' W",
+        "lat": "35Â° 14.152' N",
+        "comments": null,
+        "id": 417,
+        "cartodb_id": 64,
+        "created_at": "2014-04-11T22:13:05Z",
+        "updated_at": "2014-04-11T22:13:05Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.762833,
+          35.235863
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "See Canyon/Davis Canyon Plan",
+        "description": null,
+        "timestamp": null,
+        "begin": null,
+        "_end": null,
+        "altitudemode": null,
+        "tessellate": -1,
+        "extrude": -1,
+        "visibility": -1,
+        "draworder": null,
+        "icon": null,
+        "label": "S",
+        "preattack": "Avila Valley Area PreAttack Plan",
+        "location": null,
+        "type": "Safety Refuge Area",
+        "address": null,
+        "long": "120Â° 43.077' W",
+        "lat": "35Â° 12.528' N",
+        "comments": null,
+        "id": 418,
+        "cartodb_id": 65,
+        "created_at": "2014-04-11T22:13:05Z",
+        "updated_at": "2014-04-11T22:13:05Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.717953,
+          35.208794
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lupine Canyon, See Canyon/Davis Canyon Plan",
+        "description": null,
+        "timestamp": null,
+        "begin": null,
+        "_end": null,
+        "altitudemode": null,
+        "tessellate": -1,
+        "extrude": -1,
+        "visibility": -1,
+        "draworder": null,
+        "icon": null,
+        "label": "S",
+        "preattack": "Avila Valley Area PreAttack Plan",
+        "location": null,
+        "type": "Safety Refuge Area",
+        "address": null,
+        "long": "120Â° 44.439' W",
+        "lat": "35Â° 10.783' N",
+        "comments": null,
+        "id": 419,
+        "cartodb_id": 66,
+        "created_at": "2014-04-11T22:13:05Z",
+        "updated_at": "2014-04-11T22:13:05Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.740648,
+          35.179721
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Baron Canyon/Squire Canyon Plan",
+        "description": null,
+        "timestamp": null,
+        "begin": null,
+        "_end": null,
+        "altitudemode": null,
+        "tessellate": -1,
+        "extrude": -1,
+        "visibility": -1,
+        "draworder": null,
+        "icon": null,
+        "label": "S",
+        "preattack": "Avila Valley Area PreAttack Plan",
+        "location": null,
+        "type": "Safety Refuge Area",
+        "address": null,
+        "long": "120Â° 40.513' W",
+        "lat": "35Â° 12.448' N",
+        "comments": null,
+        "id": 420,
+        "cartodb_id": 67,
+        "created_at": "2014-04-11T22:13:05Z",
+        "updated_at": "2014-04-11T22:13:05Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.675217,
+          35.207465
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Baron/Squire, Lupine, See/Davis Canyon Plans",
+        "description": null,
+        "timestamp": null,
+        "begin": null,
+        "_end": null,
+        "altitudemode": null,
+        "tessellate": -1,
+        "extrude": -1,
+        "visibility": -1,
+        "draworder": null,
+        "icon": null,
+        "label": "S",
+        "preattack": "Avila Valley Area PreAttack Plan",
+        "location": null,
+        "type": "Safety Refuge Area",
+        "address": null,
+        "long": "120Â° 41.551' W",
+        "lat": "35Â° 10.682' N",
+        "comments": null,
+        "id": 421,
+        "cartodb_id": 68,
+        "created_at": "2014-04-11T22:13:05Z",
+        "updated_at": "2014-04-11T22:13:05Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.692509,
+          35.178032
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "See Canyon/Davis Canyon Plan",
+        "description": null,
+        "timestamp": null,
+        "begin": null,
+        "_end": null,
+        "altitudemode": null,
+        "tessellate": -1,
+        "extrude": -1,
+        "visibility": -1,
+        "draworder": null,
+        "icon": null,
+        "label": "S",
+        "preattack": "Avila Valley Area PreAttack Plan",
+        "location": null,
+        "type": "Safety Refuge Area",
+        "address": null,
+        "long": "120Â° 44.976' W",
+        "lat": "35Â° 13.307' N",
+        "comments": null,
+        "id": 422,
+        "cartodb_id": 69,
+        "created_at": "2014-04-11T22:13:05Z",
+        "updated_at": "2014-04-11T22:13:05Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.749604,
+          35.221789
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "See Canyon/Davis Canyon Plan",
+        "description": null,
+        "timestamp": null,
+        "begin": null,
+        "_end": null,
+        "altitudemode": null,
+        "tessellate": -1,
+        "extrude": -1,
+        "visibility": -1,
+        "draworder": null,
+        "icon": null,
+        "label": "S",
+        "preattack": "Avila Valley Area PreAttack Plan",
+        "location": null,
+        "type": "Safety Refuge Area",
+        "address": null,
+        "long": "120Â° 46.206' W",
+        "lat": "35Â° 13.836' N",
+        "comments": null,
+        "id": 423,
+        "cartodb_id": 70,
+        "created_at": "2014-04-11T22:13:05Z",
+        "updated_at": "2014-04-11T22:13:05Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.770099,
+          35.230597
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "West Lake Nacimiento PreAttack Plan",
+        "description": null,
+        "timestamp": null,
+        "begin": null,
+        "_end": null,
+        "altitudemode": null,
+        "tessellate": -1,
+        "extrude": -1,
+        "visibility": -1,
+        "draworder": null,
+        "icon": null,
+        "label": "S",
+        "preattack": "West Lake Nacimiento Pre-Attack Plan",
+        "location": null,
+        "type": "Safety Refuge Area",
+        "address": null,
+        "long": "120Â° 59.364' W",
+        "lat": "35Â° 47.087' N",
+        "comments": null,
+        "id": 424,
+        "cartodb_id": 71,
+        "created_at": "2014-04-11T22:13:05Z",
+        "updated_at": "2014-04-11T22:13:05Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.989398,
+          35.784782
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "East and West Lake Nacimiento Plan",
+        "description": null,
+        "timestamp": null,
+        "begin": null,
+        "_end": null,
+        "altitudemode": null,
+        "tessellate": -1,
+        "extrude": -1,
+        "visibility": -1,
+        "draworder": null,
+        "icon": null,
+        "label": "S",
+        "preattack": "East and West Lake Nacimiento PreAttack Plan",
+        "location": null,
+        "type": "Safety Refuge Area",
+        "address": null,
+        "long": "120Â° 56.169' W",
+        "lat": "35Â° 41.069' N",
+        "comments": null,
+        "id": 425,
+        "cartodb_id": 72,
+        "created_at": "2014-04-11T22:13:05Z",
+        "updated_at": "2014-04-11T22:13:05Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.936155,
+          35.684475
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "East Lake Nacimiento Plan",
+        "description": null,
+        "timestamp": null,
+        "begin": null,
+        "_end": null,
+        "altitudemode": null,
+        "tessellate": -1,
+        "extrude": -1,
+        "visibility": -1,
+        "draworder": null,
+        "icon": null,
+        "label": "S",
+        "preattack": "East Lake Nacimiento PreAttack Plan",
+        "location": null,
+        "type": "Safety Refuge Area",
+        "address": null,
+        "long": "120Â° 52.111' W",
+        "lat": "35Â° 44.419' N",
+        "comments": null,
+        "id": 426,
+        "cartodb_id": 73,
+        "created_at": "2014-04-11T22:13:05Z",
+        "updated_at": "2014-04-11T22:13:05Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.868512,
+          35.740308
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Parkhill Area PreAttack Plan, Salinas Plan",
+        "description": null,
+        "timestamp": null,
+        "begin": null,
+        "_end": null,
+        "altitudemode": null,
+        "tessellate": -1,
+        "extrude": -1,
+        "visibility": -1,
+        "draworder": null,
+        "icon": null,
+        "label": "S",
+        "preattack": "Parkhill Area PreAttack Plan",
+        "location": null,
+        "type": "Safety Refuge Area",
+        "address": null,
+        "long": "120Â° 34.557' W",
+        "lat": "35Â° 23.328' N",
+        "comments": null,
+        "id": 427,
+        "cartodb_id": 74,
+        "created_at": "2014-04-11T22:13:05Z",
+        "updated_at": "2014-04-11T22:13:05Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.575956,
+          35.388806
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Huer Huero Plan, Parkhill Area PreAttack Plan",
+        "description": null,
+        "timestamp": null,
+        "begin": null,
+        "_end": null,
+        "altitudemode": null,
+        "tessellate": -1,
+        "extrude": -1,
+        "visibility": -1,
+        "draworder": null,
+        "icon": null,
+        "label": "S",
+        "preattack": "Parkhill Area PreAttack Plan",
+        "location": null,
+        "type": "Safety Refuge Area",
+        "address": null,
+        "long": "120Â° 29.908' W",
+        "lat": "35Â° 26.041' N",
+        "comments": null,
+        "id": 428,
+        "cartodb_id": 75,
+        "created_at": "2014-04-11T22:13:05Z",
+        "updated_at": "2014-04-11T22:13:05Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.498468,
+          35.434018
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Parkhill Area PreAttack Plan, Salinas Plan",
+        "description": null,
+        "timestamp": null,
+        "begin": null,
+        "_end": null,
+        "altitudemode": null,
+        "tessellate": -1,
+        "extrude": -1,
+        "visibility": -1,
+        "draworder": null,
+        "icon": null,
+        "label": "S",
+        "preattack": "Parkhill Area PreAttack Plan",
+        "location": null,
+        "type": "Safety Refuge Area",
+        "address": null,
+        "long": "120Â° 31.857' W",
+        "lat": "35Â° 24.066' N",
+        "comments": null,
+        "id": 429,
+        "cartodb_id": 76,
+        "created_at": "2014-04-11T22:13:05Z",
+        "updated_at": "2014-04-11T22:13:05Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.530954,
+          35.401096
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": null,
+        "description": null,
+        "timestamp": null,
+        "begin": null,
+        "_end": null,
+        "altitudemode": null,
+        "tessellate": -1,
+        "extrude": -1,
+        "visibility": -1,
+        "draworder": null,
+        "icon": null,
+        "label": "S",
+        "preattack": null,
+        "location": null,
+        "type": "Safety Refuge Area",
+        "address": null,
+        "long": "120Â° 51.334' W",
+        "lat": "35Â° 31.935' N",
+        "comments": null,
+        "id": 430,
+        "cartodb_id": 77,
+        "created_at": "2014-04-11T22:13:05Z",
+        "updated_at": "2014-04-11T22:13:05Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.85557,
+          35.532244
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "West Atascadero",
+        "description": null,
+        "timestamp": null,
+        "begin": null,
+        "_end": null,
+        "altitudemode": null,
+        "tessellate": -1,
+        "extrude": -1,
+        "visibility": -1,
+        "draworder": null,
+        "icon": null,
+        "label": "S",
+        "preattack": "West Atascadero Area PreAttack Plan",
+        "location": null,
+        "type": "Safety Refuge Area",
+        "address": null,
+        "long": "120Â° 45.502' W",
+        "lat": "35Â° 26.422' N",
+        "comments": null,
+        "id": 431,
+        "cartodb_id": 78,
+        "created_at": "2014-04-11T22:13:05Z",
+        "updated_at": "2014-04-11T22:13:05Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.75837,
+          35.440374
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "West Atascadero",
+        "description": null,
+        "timestamp": null,
+        "begin": null,
+        "_end": null,
+        "altitudemode": null,
+        "tessellate": -1,
+        "extrude": -1,
+        "visibility": -1,
+        "draworder": null,
+        "icon": null,
+        "label": "S",
+        "preattack": "West Atascadero Area PreAttack Plan",
+        "location": null,
+        "type": "Safety Refuge Area",
+        "address": null,
+        "long": "120Â° 47.708' W",
+        "lat": "35Â° 30.026' N",
+        "comments": null,
+        "id": 432,
+        "cartodb_id": 79,
+        "created_at": "2014-04-11T22:13:05Z",
+        "updated_at": "2014-04-11T22:13:05Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.795129,
+          35.500426
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "West Atascadero",
+        "description": null,
+        "timestamp": null,
+        "begin": null,
+        "_end": null,
+        "altitudemode": null,
+        "tessellate": -1,
+        "extrude": -1,
+        "visibility": -1,
+        "draworder": null,
+        "icon": null,
+        "label": "S",
+        "preattack": "West Atascadero Area PreAttack Plan",
+        "location": null,
+        "type": "Safety Refuge Area",
+        "address": null,
+        "long": "120Â° 51.107' W",
+        "lat": "35Â° 29.682' N",
+        "comments": null,
+        "id": 433,
+        "cartodb_id": 80,
+        "created_at": "2014-04-11T22:13:05Z",
+        "updated_at": "2014-04-11T22:13:05Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.851784,
+          35.494696
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": null,
+        "description": null,
+        "timestamp": null,
+        "begin": null,
+        "_end": null,
+        "altitudemode": null,
+        "tessellate": -1,
+        "extrude": -1,
+        "visibility": -1,
+        "draworder": null,
+        "icon": null,
+        "label": "S",
+        "preattack": null,
+        "location": null,
+        "type": "Safety Refuge Area",
+        "address": null,
+        "long": "120Â° 28.538' W",
+        "lat": "35Â° 26.743' N",
+        "comments": null,
+        "id": 434,
+        "cartodb_id": 81,
+        "created_at": "2014-04-11T22:13:05Z",
+        "updated_at": "2014-04-11T22:13:05Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.475637,
+          35.44572
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Baron Canyon/Squire Canyon Plan",
+        "description": null,
+        "timestamp": null,
+        "begin": null,
+        "_end": null,
+        "altitudemode": null,
+        "tessellate": -1,
+        "extrude": -1,
+        "visibility": -1,
+        "draworder": null,
+        "icon": null,
+        "label": "S",
+        "preattack": "Avila Valley Area PreAttack Plan",
+        "location": null,
+        "type": "Safety Refuge Area",
+        "address": "Baron Canyon Helispot",
+        "long": "120Â° 40.561' W",
+        "lat": "35Â° 12.383' N",
+        "comments": null,
+        "id": 435,
+        "cartodb_id": 82,
+        "created_at": "2014-04-11T22:13:05Z",
+        "updated_at": "2014-04-11T22:13:05Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.676017,
+          35.206374
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Baron/Squire, Lupine, See/Davis Canyon Plans",
+        "description": null,
+        "timestamp": null,
+        "begin": null,
+        "_end": null,
+        "altitudemode": null,
+        "tessellate": -1,
+        "extrude": -1,
+        "visibility": -1,
+        "draworder": null,
+        "icon": null,
+        "label": "S",
+        "preattack": "Avila Valley Area PreAttack Plan",
+        "location": null,
+        "type": "Safety Refuge Area",
+        "address": "Gragg Canyon",
+        "long": "120Â° 41.706' W",
+        "lat": "35Â° 10.741' N",
+        "comments": null,
+        "id": 436,
+        "cartodb_id": 83,
+        "created_at": "2014-04-11T22:13:05Z",
+        "updated_at": "2014-04-11T22:13:05Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.695095,
+          35.179017
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lupine Canyon, See Canyon/Davis Canyon Plan",
+        "description": null,
+        "timestamp": null,
+        "begin": null,
+        "_end": null,
+        "altitudemode": null,
+        "tessellate": -1,
+        "extrude": -1,
+        "visibility": -1,
+        "draworder": null,
+        "icon": null,
+        "label": "S",
+        "preattack": "Avila Valley Area PreAttack Plan",
+        "location": null,
+        "type": "Safety Refuge Area",
+        "address": "Avila Barn",
+        "long": "120Â° 42.303' W",
+        "lat": "35Â° 10.940' N",
+        "comments": null,
+        "id": 437,
+        "cartodb_id": 84,
+        "created_at": "2014-04-11T22:13:05Z",
+        "updated_at": "2014-04-11T22:13:05Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.705048,
+          35.182338
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lupine Canyon, See Canyon/Davis Canyon Plan",
+        "description": null,
+        "timestamp": null,
+        "begin": null,
+        "_end": null,
+        "altitudemode": null,
+        "tessellate": -1,
+        "extrude": -1,
+        "visibility": -1,
+        "draworder": null,
+        "icon": null,
+        "label": "S",
+        "preattack": "Avila Valley Area PreAttack Plan",
+        "location": null,
+        "type": "Safety Refuge Area",
+        "address": "Bellvue Santa Fe Charter School",
+        "long": "120Â° 42.881' W",
+        "lat": "35Â° 11.623' N",
+        "comments": null,
+        "id": 438,
+        "cartodb_id": 85,
+        "created_at": "2014-04-11T22:13:05Z",
+        "updated_at": "2014-04-11T22:13:05Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.714684,
+          35.193723
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lupine Canyon, See Canyon/Davis Canyon Plan",
+        "description": null,
+        "timestamp": null,
+        "begin": null,
+        "_end": null,
+        "altitudemode": null,
+        "tessellate": -1,
+        "extrude": -1,
+        "visibility": -1,
+        "draworder": null,
+        "icon": null,
+        "label": "S",
+        "preattack": "Avila Valley Area PreAttack Plan",
+        "location": null,
+        "type": "Safety Refuge Area",
+        "address": "San Luis Bay Inn",
+        "long": "120Â° 44.373' W",
+        "lat": "35Â° 10.759' N",
+        "comments": null,
+        "id": 439,
+        "cartodb_id": 86,
+        "created_at": "2014-04-11T22:13:05Z",
+        "updated_at": "2014-04-11T22:13:05Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.739548,
+          35.179311
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "See Canyon/Davis Canyon Plan",
+        "description": null,
+        "timestamp": null,
+        "begin": null,
+        "_end": null,
+        "altitudemode": null,
+        "tessellate": -1,
+        "extrude": -1,
+        "visibility": -1,
+        "draworder": null,
+        "icon": null,
+        "label": "S",
+        "preattack": "Avila Valley Area PreAttack Plan",
+        "location": null,
+        "type": "Safety Refuge Area",
+        "address": "La Quinta Ranch",
+        "long": "120Â° 44.518' W",
+        "lat": "35Â° 13.764' N",
+        "comments": null,
+        "id": 440,
+        "cartodb_id": 87,
+        "created_at": "2014-04-11T22:13:05Z",
+        "updated_at": "2014-04-11T22:13:05Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.741963,
+          35.229407
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "See Canyon/Davis Canyon Plan",
+        "description": null,
+        "timestamp": null,
+        "begin": null,
+        "_end": null,
+        "altitudemode": null,
+        "tessellate": -1,
+        "extrude": -1,
+        "visibility": -1,
+        "draworder": null,
+        "icon": null,
+        "label": "S",
+        "preattack": "Avila Valley Area PreAttack Plan",
+        "location": null,
+        "type": "Safety Refuge Area",
+        "address": "FAA Facility",
+        "long": "120Â° 45.602' W",
+        "lat": "35Â° 15.102' N",
+        "comments": null,
+        "id": 441,
+        "cartodb_id": 88,
+        "created_at": "2014-04-11T22:13:05Z",
+        "updated_at": "2014-04-11T22:13:05Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.760033,
+          35.251696
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": null,
+        "description": null,
+        "timestamp": null,
+        "begin": null,
+        "_end": null,
+        "altitudemode": null,
+        "tessellate": -1,
+        "extrude": -1,
+        "visibility": -1,
+        "draworder": null,
+        "icon": null,
+        "label": "S",
+        "preattack": null,
+        "location": null,
+        "type": "Safety Refuge Area",
+        "address": null,
+        "long": "120Â° 25.829' W",
+        "lat": "35Â° 11.967' N",
+        "comments": null,
+        "id": 442,
+        "cartodb_id": 89,
+        "created_at": "2014-04-11T22:13:05Z",
+        "updated_at": "2014-04-11T22:13:05Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.430476,
+          35.199446
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lupine Canyon, See Canyon/Davis Canyon Plan",
+        "description": null,
+        "timestamp": null,
+        "begin": null,
+        "_end": null,
+        "altitudemode": null,
+        "tessellate": -1,
+        "extrude": -1,
+        "visibility": -1,
+        "draworder": null,
+        "icon": null,
+        "label": "S",
+        "preattack": "Avila Valley Area PreAttack Plan",
+        "location": null,
+        "type": "Safety Refuge Area",
+        "address": "San Luis Bay Inn",
+        "long": "120Â° 44.438' W",
+        "lat": "35Â° 10.774' N",
+        "comments": null,
+        "id": 443,
+        "cartodb_id": 90,
+        "created_at": "2014-04-11T22:13:05Z",
+        "updated_at": "2014-04-11T22:13:05Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.74063,
+          35.179559
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": null,
+        "description": null,
+        "timestamp": null,
+        "begin": null,
+        "_end": null,
+        "altitudemode": null,
+        "tessellate": -1,
+        "extrude": -1,
+        "visibility": -1,
+        "draworder": null,
+        "icon": null,
+        "label": "S",
+        "preattack": null,
+        "location": null,
+        "type": "Safety Refuge Area",
+        "address": "SR-6",
+        "long": "120Â° 23.610' W",
+        "lat": "35Â° 20.743' N",
+        "comments": null,
+        "id": 444,
+        "cartodb_id": 91,
+        "created_at": "2014-04-11T22:13:05Z",
+        "updated_at": "2014-04-11T22:13:05Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.393501,
+          35.34571
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": null,
+        "description": null,
+        "timestamp": null,
+        "begin": null,
+        "_end": null,
+        "altitudemode": null,
+        "tessellate": -1,
+        "extrude": -1,
+        "visibility": -1,
+        "draworder": null,
+        "icon": null,
+        "label": "S",
+        "preattack": null,
+        "location": null,
+        "type": "Safety Refuge Area",
+        "address": "San Simeon State",
+        "long": "121Â° 7.415' W",
+        "lat": "35Â° 35.808' N",
+        "comments": "Rotate: 332",
+        "id": 445,
+        "cartodb_id": 92,
+        "created_at": "2014-04-11T22:13:05Z",
+        "updated_at": "2014-04-11T22:13:05Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.123583,
+          35.596797
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Windosr Plan",
+        "description": null,
+        "timestamp": null,
+        "begin": null,
+        "_end": null,
+        "altitudemode": null,
+        "tessellate": -1,
+        "extrude": -1,
+        "visibility": -1,
+        "draworder": null,
+        "icon": null,
+        "label": "S",
+        "preattack": "Cambria PreAttack Plan",
+        "location": null,
+        "type": "Safety Refuge Area",
+        "address": "Leffingwells Park",
+        "long": "121Â° 6.496' W",
+        "lat": "35Â° 33.961' N",
+        "comments": "Rotate: 332",
+        "id": 446,
+        "cartodb_id": 93,
+        "created_at": "2014-04-11T22:13:05Z",
+        "updated_at": "2014-04-11T22:13:05Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.108268,
+          35.566016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fiscallini West Plan",
+        "description": null,
+        "timestamp": null,
+        "begin": null,
+        "_end": null,
+        "altitudemode": null,
+        "tessellate": -1,
+        "extrude": -1,
+        "visibility": -1,
+        "draworder": null,
+        "icon": null,
+        "label": "S",
+        "preattack": "Cambria PreAttack Plan",
+        "location": null,
+        "type": "Safety Refuge Area",
+        "address": "Seacliff Estates",
+        "long": "121Â° 6.148' W",
+        "lat": "35Â° 33.356' N",
+        "comments": "Rotate: 332",
+        "id": 447,
+        "cartodb_id": 94,
+        "created_at": "2014-04-11T22:13:05Z",
+        "updated_at": "2014-04-11T22:13:05Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.102466,
+          35.55593
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ardath Plan",
+        "description": null,
+        "timestamp": null,
+        "begin": null,
+        "_end": null,
+        "altitudemode": null,
+        "tessellate": -1,
+        "extrude": -1,
+        "visibility": -1,
+        "draworder": null,
+        "icon": null,
+        "label": "S",
+        "preattack": "Cambria PreAttack Plan",
+        "location": null,
+        "type": "Safety Refuge Area",
+        "address": "Lampton Cliffs Park",
+        "long": "121Â° 5.560' W",
+        "lat": "35Â° 32.489' N",
+        "comments": "Rotate: 332",
+        "id": 448,
+        "cartodb_id": 95,
+        "created_at": "2014-04-11T22:13:05Z",
+        "updated_at": "2014-04-11T22:13:05Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.092673,
+          35.54149
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": null,
+        "description": null,
+        "timestamp": null,
+        "begin": null,
+        "_end": null,
+        "altitudemode": null,
+        "tessellate": -1,
+        "extrude": -1,
+        "visibility": -1,
+        "draworder": null,
+        "icon": null,
+        "label": "S",
+        "preattack": null,
+        "location": null,
+        "type": "Safety Refuge Area",
+        "address": "Lampton Cliffs Park",
+        "long": "121Â° 2.456' W",
+        "lat": "35Â° 31.718' N",
+        "comments": "Rotate: 332",
+        "id": 449,
+        "cartodb_id": 96,
+        "created_at": "2014-04-11T22:13:05Z",
+        "updated_at": "2014-04-11T22:13:05Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.040928,
+          35.528632
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Burton-Main Street Plan",
+        "description": null,
+        "timestamp": null,
+        "begin": null,
+        "_end": null,
+        "altitudemode": null,
+        "tessellate": -1,
+        "extrude": -1,
+        "visibility": -1,
+        "draworder": null,
+        "icon": null,
+        "label": "S",
+        "preattack": "Cambria PreAttack Plan",
+        "location": null,
+        "type": "Safety Refuge Area",
+        "address": null,
+        "long": "121Â° 4.892' W",
+        "lat": "35Â° 33.364' N",
+        "comments": null,
+        "id": 450,
+        "cartodb_id": 97,
+        "created_at": "2014-04-11T22:13:05Z",
+        "updated_at": "2014-04-11T22:13:05Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.081532,
+          35.556068
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "See Canyon/Davis Canyon Plan",
+        "description": null,
+        "timestamp": null,
+        "begin": null,
+        "_end": null,
+        "altitudemode": null,
+        "tessellate": -1,
+        "extrude": -1,
+        "visibility": -1,
+        "draworder": null,
+        "icon": null,
+        "label": "S",
+        "preattack": "Avila Valley Area PreAttack Plan",
+        "location": null,
+        "type": "Safety Refuge Area",
+        "address": null,
+        "long": "120Â° 45.572' W",
+        "lat": "35Â° 15.134' N",
+        "comments": null,
+        "id": 451,
+        "cartodb_id": 98,
+        "created_at": "2014-04-11T22:13:05Z",
+        "updated_at": "2014-04-11T22:13:05Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.759525,
+          35.252232
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": null,
+        "description": null,
+        "timestamp": null,
+        "begin": null,
+        "_end": null,
+        "altitudemode": null,
+        "tessellate": null,
+        "extrude": null,
+        "visibility": null,
+        "draworder": null,
+        "icon": null,
+        "label": null,
+        "preattack": null,
+        "location": "PG&E Visitor Center",
+        "type": null,
+        "address": null,
+        "long": "120°42'4.52\"W",
+        "lat": " 35°11'38.59\"N",
+        "comments": null,
+        "id": 99,
+        "cartodb_id": 99,
+        "created_at": "2014-04-11T22:13:41Z",
+        "updated_at": "2014-04-11T22:21:29Z"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": null,
+        "description": null,
+        "timestamp": null,
+        "begin": null,
+        "_end": null,
+        "altitudemode": null,
+        "tessellate": null,
+        "extrude": null,
+        "visibility": null,
+        "draworder": null,
+        "icon": null,
+        "label": null,
+        "preattack": null,
+        "location": "Old Chevron",
+        "type": null,
+        "address": null,
+        "long": "120°39'23.00\"W",
+        "lat": " 35°14'50.95\"N",
+        "comments": null,
+        "id": 100,
+        "cartodb_id": 100,
+        "created_at": "2014-04-11T22:20:18Z",
+        "updated_at": "2014-04-11T22:25:10Z"
+      },
+      "geometry": null
+    }
+  ]
+}
