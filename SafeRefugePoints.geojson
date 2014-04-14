@@ -4,6 +4,36 @@
     {
       "type": "Feature",
       "properties": {
+        "Name": "PG&E Energy Education Center ",
+        "Description": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.7012898854724,
+          35.19362137872481,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "San Luis Obispo Tank Farm",
+        "Description": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.6576627434701,
+          35.24476782909061,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": null,
         "description": null,
         "timestamp": null,
