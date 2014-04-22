@@ -69,24 +69,32 @@
 }}
 
 
-Labels
-#PreAttacks {
-  text-name: [PreAttack];
-  text-face-name: 'Angsana New Bold'; 
-  text-fill: #036;
-  text-halo-fill: fadeout(white, 30%);
-  text-halo-radius: 2.5;
-  text-size: 20;
-  text-placement: line;
-  }
+
+
+
+
+Legend
+
+
+<div class='my-legend'>
+<b><div class='legend-title'>Safe Refuge Areas</div></b>
+<div class='legend-scale'>
+  <ul class='legend-labels'>
+    
+  </ul>
+</div>
+<div class='legend-source'>Source: <a href="#link to source”>calfireslo.org</a></div>
+</div>
+
+
+
+
 
 
 
 
 Teaser
 
-<b>{{{type}}}</b><br/>
-<hr>PreAttack: {{{preattack}}}<br/>
-Location: {{{location}}}<br/>
-Latitude:  {{{lat}}}<br/> 
-Longitude: {{{long}}}
+<b>{{{name}}}</b><br/>
+
+Acreage: {{{Acres}}}
