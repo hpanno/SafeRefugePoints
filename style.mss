@@ -94,7 +94,20 @@ Legend
 
 
 Teaser
+<b>{{{type}}}<br/></b>
+<hr>{{{preattack}}}<br/>
+{{{location}}}<br/>
+{{{long}}} <br/>
+{{{lat}}}
 
-<b>{{{name}}}</b><br/>
 
-Acreage: {{{Acres}}}
+
+Labels
+#PreAttacks{
+  text-name: [name];
+  text-face-name: 'Angsana New Bold';
+  text-size: 24;
+  text-halo-fill: fadeout(white, 30%);
+  text-halo-radius: 2.5;
+  text-allow-overlap: true;
+  }
