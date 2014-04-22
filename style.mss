@@ -47,3 +47,26 @@
     polygon-opacity:.20;   
     line-dasharray: 10, 3, 2, 3;
 }}
+
+
+Labels
+#PreAttacks {
+  text-name: [PreAttack];
+  text-face-name: 'Angsana New Bold'; 
+  text-fill: #036;
+  text-halo-fill: fadeout(white, 30%);
+  text-halo-radius: 2.5;
+  text-size: 20;
+  text-placement: line;
+  }
+
+
+
+
+Teaser
+
+<b>{{{type}}}</b><br/>
+<hr>PreAttack: {{{preattack}}}<br/>
+Location: {{{location}}}<br/>
+Latitude:  {{{lat}}}<br/> 
+Longitude: {{{long}}}
