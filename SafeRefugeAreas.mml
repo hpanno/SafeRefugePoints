@@ -1,0 +1,92 @@
+{
+  "bounds": [
+    -180,
+    -85.05112877980659,
+    180,
+    85.05112877980659
+  ],
+  "center": [
+    0,
+    0,
+    2
+  ],
+  "format": "png",
+  "interactivity": {
+    "layer": "SafeRefugeAreas",
+    "template_teaser": "<b>{{{type}}}<br/></b>\n<hr>{{{preattack}}}<br/>\n{{{location}}}<br/>\n{{{long}}} <br/>\n{{{lat}}}",
+    "fields": [
+      "type",
+      "preattack",
+      "location",
+      "long",
+      "lat"
+    ],
+    "template_full": ""
+  },
+  "minzoom": 0,
+  "maxzoom": 22,
+  "srs": "+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over",
+  "Stylesheet": [
+    "style.mss",
+    "Labels"
+  ],
+  "Layer": [
+    {
+      "id": "countries",
+      "name": "countries",
+      "srs": "+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over",
+      "geometry": "polygon",
+      "Datasource": {
+        "file": "http://mapbox-geodata.s3.amazonaws.com/natural-earth-1.4.0/cultural/10m-admin-0-countries.zip",
+        "type": "shape"
+      }
+    },
+    {
+      "geometry": "polygon",
+      "extent": [
+        -121.09151431481696,
+        35.02772310002242,
+        -120.38643141541624,
+        35.80610369267753
+      ],
+      "id": "PreAttacks",
+      "class": "",
+      "Datasource": {
+        "file": "C:\\_projects\\PreAttackPlans_General\\countywide\\countywide_polygons\\CountyWidePreAttackPlanAreas.shp",
+        "id": "PreAttacks",
+        "project": "SafeRefugeAreas",
+        "srs": ""
+      },
+      "srs-name": "autodetect",
+      "srs": "",
+      "advanced": {},
+      "name": "PreAttacks"
+    },
+    {
+      "geometry": "point",
+      "extent": [
+        -121.123583,
+        35.06208,
+        -120.375331,
+        35.784782
+      ],
+      "id": "SafeRefugeAreas",
+      "class": "",
+      "Datasource": {
+        "file": "C:\\_projects\\SafeRefuge\\Project_Data\\SRAs.shp",
+        "id": "SafeRefugeAreas",
+        "project": "SafeRefugeAreas",
+        "srs": ""
+      },
+      "srs-name": "autodetect",
+      "srs": "",
+      "advanced": {},
+      "name": "SafeRefugeAreas"
+    }
+  ],
+  "scale": 1,
+  "metatile": 2,
+  "name": "Safe Refuge Areas",
+  "description": "Safe Refuge Areas in San Luis Obispo",
+  "legend": "<div class='my-legend'>\n<b><div class='legend-title'>Safe Refuge Areas</div></b>\n<div class='legend-scale'>\n  <ul class='legend-labels'>\n    \n  </ul>\n</div>\n<div class='legend-source'>Source: <a href=\"#link to source”>calfireslo.org</a></div>\n</div>\n"
+}
