@@ -1,0 +1,10 @@
+#PreAttacks{
+  text-name: [name];
+  text-face-name: 'Angsana New Bold';
+  text-size: 24;
+  text-halo-fill: fadeout(white, 30%);
+  text-halo-radius: 2.5;
+  text-allow-overlap: true;
+  text-fill: #000000;
+  text-placement: line;
+  }
